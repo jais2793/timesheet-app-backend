@@ -1,11 +1,10 @@
 # Getting Started with Timesheet Backend
 
-## Available Scripts
-
-In the project directory, you can run:
-
-IMPORTANT: Enter your mongodb uri in config.js:
+## IMPORTANT: Enter your mongodb uri in config.js:
 ### `const URI = "ENTER YOUR MONGODB URI HERE";`
+
+## Available Scripts
+In the project directory, you can run:
 
 ### `npm i .`
 
