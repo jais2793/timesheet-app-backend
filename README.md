@@ -4,6 +4,9 @@
 
 In the project directory, you can run:
 
+IMPORTANT: Enter your mongodb uri in config.js:
+### `const URI = "ENTER YOUR MONGODB URI HERE";`
+
 ### `npm i .`
 
 Installs necessary packages.\
