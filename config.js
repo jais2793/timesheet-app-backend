@@ -1,5 +1,5 @@
 const PORT = 4000;
-const URI = "mongodb+srv://jai:admin123@ipangramtest.mhakqsg.mongodb.net/?retryWrites=true&w=majority";
+const URI = "ENTER YOUR MONGODB URI HERE";
 
 module.exports = {
     PORT: PORT,
